@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\atualizacaostatustimertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\atualizacaostatustimertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\services\\implementacoes\\atualizacaoprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\services\\implementacoes\\atualizacaoprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\infraestrutura\\repository\\implementacoes\\atualizacaoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\infraestrutura\\repository\\implementacoes\\atualizacaoprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\extension\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\extension\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\services\\interface\\iatualizacaoprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\services\\interface\\iatualizacaoprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|c:\\users\\matheus.lima\\documents\\supermercado\\function\\gestaosupermercado\\atualizacaoprodutofunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53253E5-F24C-463B-91D3-503070C0312C}|AtualizacaoProdutoFunction\\AtualizacaoProdutoFunction.csproj|solutionrelative:atualizacaoprodutofunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 526,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicesExtension.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Extension\\ServicesExtension.cs",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\Extension\\ServicesExtension.cs",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Extension\\ServicesExtension.cs",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\Extension\\ServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:23:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Models\\Produto.cs",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:51:06.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtualizacaoProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Infraestrutura\\Repository\\Implementacoes\\AtualizacaoProdutoRepository.cs",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\Infraestrutura\\Repository\\Implementacoes\\AtualizacaoProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Infraestrutura\\Repository\\Implementacoes\\AtualizacaoProdutoRepository.cs",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\Infraestrutura\\Repository\\Implementacoes\\AtualizacaoProdutoRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:46:27.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtualizacaoProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Services\\Implementacoes\\AtualizacaoProdutoService.cs",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\Services\\Implementacoes\\AtualizacaoProdutoService.cs",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Services\\Implementacoes\\AtualizacaoProdutoService.cs",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\Services\\Implementacoes\\AtualizacaoProdutoService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:21:08.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAtualizacaoProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Services\\Interface\\IAtualizacaoProdutoService.cs",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\Services\\Interface\\IAtualizacaoProdutoService.cs",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\Services\\Interface\\IAtualizacaoProdutoService.cs",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\Services\\Interface\\IAtualizacaoProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:19:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\local.settings.json",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T01:15:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtualizacaoStatusTimerTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\AtualizacaoStatusTimerTrigger.cs",
+              "RelativeDocumentMoniker": "AtualizacaoProdutoFunction\\AtualizacaoStatusTimerTrigger.cs",
+              "ToolTip": "C:\\Users\\matheus.lima\\Documents\\Supermercado\\Function\\GestaoSupermercado\\AtualizacaoProdutoFunction\\AtualizacaoStatusTimerTrigger.cs",
+              "RelativeToolTip": "AtualizacaoProdutoFunction\\AtualizacaoStatusTimerTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:13:08.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
